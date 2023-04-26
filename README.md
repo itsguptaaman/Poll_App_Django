@@ -17,3 +17,21 @@ python manage.py runserver
 ![poll](https://user-images.githubusercontent.com/88229259/232331695-7a69edb6-3c79-4131-906f-c04125f43be1.PNG)
 
 ![poll2](https://user-images.githubusercontent.com/88229259/232331700-9af1a6d4-e50e-4527-87b9-62b910b89147.PNG)
+
+
+### To make the Django structure run
+
+```
+django-admin startproject demo
+```
+
+### To run the Django file
+```
+python manage.py runserver
+```
+
+### To create new app 
+
+```
+python manage.py startapp app_name
+```
